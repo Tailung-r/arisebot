@@ -86,4 +86,4 @@ async def open_modal(ctx):
     await ctx.send(embed=embed, view=view)
 
 
-bot.run("MTMwNTYzOTE5MzMzODMxNDc1Mg.GMo4_7.LqmxtzMg79IjzwHl9bElkd9Sdte_V11m3oZ5eY")
+bot.run("TOKEN")
